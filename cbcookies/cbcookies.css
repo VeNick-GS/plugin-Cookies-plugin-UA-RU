@@ -1,0 +1,40 @@
+
+#cbcookies_accept {
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 3px 5px;
+    text-decoration: none;
+}
+
+#cbcookies_more {
+    text-decoration: underline;
+}
+
+#cbcookies-top{
+    background-color: #FFFFFF;
+    border-bottom: 4px solid #444444;
+    top: 0;
+    color: #000000;
+    font-family: inherit;
+    left: 0;
+    padding-bottom: 13px;
+    padding-top: 10px;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    z-index: 9999;
+}
+
+#cbcookies-bottom{
+    background-color: #FFFFFF;
+    border-top: 4px solid #444444;
+    bottom: 0;
+    color: #000000;
+    font-family: inherit;
+    left: 0;
+    padding: 15px 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    z-index: 9999;
+}
